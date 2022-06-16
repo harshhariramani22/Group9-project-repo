@@ -11,7 +11,7 @@
 
 ## Authors
 
-**[Optional]** If what is being submitted is an individual Lab or Assignment, you may simply include your name and email address. Otherwise list the members of your group.
+**[Optional]** If what is being submitted is an individual Lab or Assignment, you may simply include your name and email address. The list of members of our group are:
 
 * [Adarsh Kannan Iyengar](adarsh.kannan@dal.ca) - *(Developer)*
 * [Elizabeth James](elizabeth.james@dal.ca) - *(Developer)*
